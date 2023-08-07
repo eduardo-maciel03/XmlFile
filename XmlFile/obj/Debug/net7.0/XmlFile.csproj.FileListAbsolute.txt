@@ -1,0 +1,15 @@
+D:\Projetos\XmlFile\XmlFile\bin\Debug\net7.0\XmlFile.exe
+D:\Projetos\XmlFile\XmlFile\bin\Debug\net7.0\XmlFile.deps.json
+D:\Projetos\XmlFile\XmlFile\bin\Debug\net7.0\XmlFile.runtimeconfig.json
+D:\Projetos\XmlFile\XmlFile\bin\Debug\net7.0\XmlFile.dll
+D:\Projetos\XmlFile\XmlFile\bin\Debug\net7.0\XmlFile.pdb
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.csproj.AssemblyReference.cache
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.AssemblyInfoInputs.cache
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.AssemblyInfo.cs
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.csproj.CoreCompileInputs.cache
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.dll
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\refint\XmlFile.dll
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.pdb
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\XmlFile.genruntimeconfig.cache
+D:\Projetos\XmlFile\XmlFile\obj\Debug\net7.0\ref\XmlFile.dll
